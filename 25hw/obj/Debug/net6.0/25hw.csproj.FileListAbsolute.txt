@@ -1,0 +1,15 @@
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\25hw.csproj.AssemblyReference.cache
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\25hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\25hw.AssemblyInfoInputs.cache
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\25hw.AssemblyInfo.cs
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\25hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW4Csharp\25hw\bin\Debug\net6.0\25hw.exe
+D:\GeekBrains\HW4Csharp\25hw\bin\Debug\net6.0\25hw.deps.json
+D:\GeekBrains\HW4Csharp\25hw\bin\Debug\net6.0\25hw.runtimeconfig.json
+D:\GeekBrains\HW4Csharp\25hw\bin\Debug\net6.0\25hw.dll
+D:\GeekBrains\HW4Csharp\25hw\bin\Debug\net6.0\25hw.pdb
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\25hw.dll
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\refint\25hw.dll
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\25hw.pdb
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\25hw.genruntimeconfig.cache
+D:\GeekBrains\HW4Csharp\25hw\obj\Debug\net6.0\ref\25hw.dll

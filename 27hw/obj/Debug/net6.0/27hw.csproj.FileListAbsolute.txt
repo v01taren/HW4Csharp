@@ -1,0 +1,15 @@
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\27hw.csproj.AssemblyReference.cache
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\27hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\27hw.AssemblyInfoInputs.cache
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\27hw.AssemblyInfo.cs
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\27hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW4Csharp\27hw\bin\Debug\net6.0\27hw.exe
+D:\GeekBrains\HW4Csharp\27hw\bin\Debug\net6.0\27hw.deps.json
+D:\GeekBrains\HW4Csharp\27hw\bin\Debug\net6.0\27hw.runtimeconfig.json
+D:\GeekBrains\HW4Csharp\27hw\bin\Debug\net6.0\27hw.dll
+D:\GeekBrains\HW4Csharp\27hw\bin\Debug\net6.0\27hw.pdb
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\27hw.dll
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\refint\27hw.dll
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\27hw.pdb
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\27hw.genruntimeconfig.cache
+D:\GeekBrains\HW4Csharp\27hw\obj\Debug\net6.0\ref\27hw.dll
